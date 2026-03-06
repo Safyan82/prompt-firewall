@@ -1,0 +1,18 @@
+# Build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Claude Code
+.claude/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Logs
+*.log
