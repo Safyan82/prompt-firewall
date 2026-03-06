@@ -1,6 +1,6 @@
 {
   "name": "prompt-firewall",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A defense library for LLM-based apps to detect and block prompt injection attacks",
   "author": "Muhammad Safyan Jelani <msafyan46@gmail.com>",
   "license": "MIT",
