@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init -y)",
+      "Bash(npm install --save-dev typescript @types/node vitest)",
+      "Bash(npm install --save-dev tsup)",
+      "Bash(npm test)"
+    ]
+  }
+}
